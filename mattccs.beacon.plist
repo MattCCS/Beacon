@@ -14,8 +14,13 @@
         <false/>
         <key>Debug</key>
         <true/>
-        <key>StartInterval</key>
-        <integer>28800</integer>
+        <key>StartCalendarInterval</key>
+        <dict>
+            <key>Hour</key>
+            <integer>06</integer>
+            <key>Minute</key>
+            <integer>30</integer>
+        </dict>
         <key>StandardOutPath</key>
         <string>/Users/matt/home/Repos/Mine/Beacon/mattccs.beacon.plist.out</string>
         <key>StandardErrorPath</key>
