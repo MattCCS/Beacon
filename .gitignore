@@ -17,3 +17,7 @@ records.db
 
 # config
 *.json
+
+# logs
+*.out
+*.err

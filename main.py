@@ -43,6 +43,7 @@ def text_latest(contact):
     print(f"Sending message: {msg}")
 
     notifytools.send_message(contact, msg)
+    print(f"Sent.")
 
 
 def main():
